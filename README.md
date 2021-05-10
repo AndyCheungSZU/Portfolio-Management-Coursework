@@ -40,6 +40,7 @@ pages, no word count), and (iii) an electronic folder containing all the Excel f
 computation (hereinafter: the Excel Folder). 
 
 **The Report**
+
 The Report is the main output of the project: it must let the reader (and the instructor) understand
 and evaluate all the steps and the decisions taken across the entire process. Whenever necessary,
 it must refer to the Excel files contained in the Excel Folder. It consists of four sections, each
@@ -65,12 +66,14 @@ MSCI World.
 You will describe and comment on the information presented in the Group’s fact sheet. 
 
 **The Group’s fact sheet**
+
 A fact sheet is a brief document (of two pages max) aimed at helping investors (both existing
 and potential) to track the overall performance of an investment fund to take an informed
 decision. To this end, the fact sheet is meant to serve as an investor’s guide (see the “Fact Sheet
 examples” and “Fund Fact Sheet Guide” documents as a reference).
 
 **The Excel Folder**
+
 You are required to use some information (historical returns on assets, mutual funds, and
 benchmarks, and to make a series of computation based on thus information.
 The Excel Folder will contain all the information and the computation used in the various steps
